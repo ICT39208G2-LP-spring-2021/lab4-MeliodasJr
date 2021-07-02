@@ -1,0 +1,11 @@
+{
+    "name": "luka/lab3-MeliodasJr",
+    "authors": [
+        {
+            "name": "luka pelishvili"
+}
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
